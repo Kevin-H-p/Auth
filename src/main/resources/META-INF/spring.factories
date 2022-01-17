@@ -1,3 +1,4 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
 com.kevin.auth.PemProperties,\
-com.kevin.auth.InterceptorConfig
+com.kevin.auth.InterceptorConfig,\
+com.kevin.auth.TokenHandler
